@@ -89,3 +89,11 @@ For support or inquiries, please reach out to us:
 - [Email](mailto:rotem5707@gmail.com)
 
 Join us in redefining the future of news consumption with GPT Newspaper!
+
+## To run in Mac locally
+```
+pip install -r requirements.txt
+export TAVILY_API_KEY=<>
+export OPENAI_API_KEY=<>
+python3 app.py
+```
